@@ -12,4 +12,4 @@ const ThirdComponent = () => {
         </div>
     )
 }
-export { SecondComponent, ThirdComponent }
+export { SecondComponent, ThirdComponent };
